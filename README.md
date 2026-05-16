@@ -59,4 +59,4 @@ Live at: `https://akashsharmax.github.io/portfolio`
 
 ## 📬 Contact
 
-**Akash Sharma** · sharmakash568@gmail.com · [github.com/akashsharmax](https://github.com/akashsharmax) . website link - [portfolio2-qlof0qbcq-akashsharmaxs-projects.vercel.app]
+**Akash Sharma** · sharmakash568@gmail.com · [github.com/akashsharmax](https://github.com/akashsharmax) . website link . portfolio2-qlof0qbcq-akashsharmaxs-projects.vercel.app
